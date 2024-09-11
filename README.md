@@ -5,6 +5,7 @@ comparator function that takes two numbers as an input.
 Main script that offer the uesr the features of the app.
 simulink model.
 app packege ready to  install and use.
+Video for app presentation : https://drive.google.com/file/d/1gIW4DhsNnpP40-dy6mLWabDFVDZRM9-0/view?usp=drive_link
 
 ## the app features
 the app offer the user 3 main features.
